@@ -1,7 +1,7 @@
 <!-- # jfkelleher96.github.io -->
 <table>
   <tr>
-    <td><img src="photo_april2023.png" width='100'/></td>
+    <td><img src="IMG_0859.JPG" width='100'/></td>
     <td><h1>John Kelleher</h1>
       <h2>MIT xPRO Certificate in Data Engineering<br>
       May 2023</h2>
