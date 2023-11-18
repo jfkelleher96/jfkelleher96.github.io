@@ -33,9 +33,9 @@
     <br>
     Tech Stack: Python (pandas, matplotlib, haversine), MySQL, Flask, HTML, JSON, Docker, Maven Springboot, Debezium, CDC, nano, MongoDB, javamaven<br>
     </td>
-    <td><a href="https://github.com/jfkelleher96/Machine-Learning/blob/main/README.md">Filtering Spam SMS Messages using AI</a><br>
+    <td><a href="https://github.com/jfkelleher96/Machine-Learning">Filtering Spam SMS Messages using AI</a><br>
     <img src="Spam.png" width='300'/><br>  
-      This project uses a Gaussian Naïve Bayes classifier to predict whether an SMS message is normal or spam.<br>
+      This project uses the Gaussian Naïve Bayes classifier to predict whether an SMS message is normal or spam.<br>
     <br>
     Tech Stack: Python, Scikit-learn, machine learning<br>
     </td>
