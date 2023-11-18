@@ -27,8 +27,8 @@
  
   <table>
     <tr>
-    <td><a href="https://github.com/ogozalek/Transit_Application">Building a Transit Data Application </a><br>
-    <img src="mbtaMap.png" width='300'/><br>
+    <td><a href="https://github.com/jfkelleher96/MBTA-Project">Building a Transit Data Application </a><br>
+    <img src="MBTA.png" width='300'/><br>
       This project uses the API for Boston's MBTA system to display the position of buses on a map on a website.<br>
     <br>
     Tech Stack: Python (pandas, matplotlib, haversine), MySQL, Flask, HTML, JSON, Docker, Maven Springboot, Debezium, CDC, nano, MongoDB, javamaven<br>
