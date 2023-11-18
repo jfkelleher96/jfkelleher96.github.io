@@ -42,8 +42,3 @@
     </td>
   </tr>
 </table>
-
-Creating a Books Web Application<br>
-Creating a Sensemaking Data Pipeline<br>
-Analyzing Live Streaming Data Using ThingsBoard<br>
-* not for final version: <a href="https://github.com/ogozalek/PCDE-Activity-9.1">Repository for Activities 9.1 and 9.2 </a>
