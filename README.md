@@ -10,7 +10,7 @@
 <b>Technical Skills:</b> &#x2022; Python &#x2022; SQL &#x2022; <br>
 <h3 text-align:center>Projects</h3>
 <table>
-  <tr valign=top>
+  <tr VALIGN=TOP>
     <td><a href="https://github.com/jfkelleher96/Predicting-Housing-Prices">Building a Model to Predict Housing Prices </a><br>
     <img src="PredictingHousingPrices.png" width='300'/><br>  
     This project uses multiple linear regression to predict housing prices based on a dataset for residential houses in Ames, Iowa.<br>
