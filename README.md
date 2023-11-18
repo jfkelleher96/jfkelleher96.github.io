@@ -16,7 +16,7 @@
     This project uses multiple linear regression to predict housing prices based on a dataset for residential houses in Ames, Iowa.<br>
     <br>
       Tech Stack: Python (pandas, numpy, matplotlib, sklearn, seaborn), CSV file processing<br></td>
-    <td><a href="https://github.com/ogozalek/Covid19_and_Retail_Sales">Exploring Effects of the COVID-19 Lockdowns on Retail Sales </a><br>
+    <td><a href="https://github.com/jfkelleher96/Retail-Sales-Analysis-through-Covid">Exploring Retail Sales from 2018 through 2021 and the Effects of COVID-19</a><br>
      <img src="lineplot1.png" width='300'/><br>
       This project uses ETL to analyze the Monthly Retail Trade Survey (MRTS) dataset for the year 2020.<br>
       <br>
