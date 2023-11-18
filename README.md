@@ -7,7 +7,7 @@
       </td>
   </tr>
 </table>
-<b>Technical Skills:</b> &#x2022; Python &#x2022; SQL; <br>
+<b>Technical Skills:</b> &#x2022; Python &#x2022; SQL <br>
 <h3 text-align:center>Projects</h3>
 <table>
   <tr VALIGN=TOP>
